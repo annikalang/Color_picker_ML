@@ -6,3 +6,6 @@ cont network = new brain.NeuralNetwork()
 
 // giving training data to network
 network.train()
+
+// results
+const results = network.run()
